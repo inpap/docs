@@ -1,0 +1,1 @@
+Sitemap: https://inpap.github.io/docs/sitemap.xml
