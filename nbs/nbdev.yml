@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "docs"
+  site-url: "https://inpap.github.io/docs"
+  description: "Docs"
+  repo-branch: main
+  repo-url: "https://github.com/inpap/docs"
